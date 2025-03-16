@@ -14,3 +14,14 @@ Now, you may ask yourself: 'why the hell does this exist?' and my answer would b
 | EC11e vert rotary encoder | 1 | [mouser](https://www.mouser.com/ProductDetail/Alps-Alpine/EC1110120201?qs=6EGMNY9ZYDQZuRRlni99ZQ%3D%3D) |
 | Bourns PEC09 horzontal rotary | 1 | [digikey](https://www.digikey.be/en/products/detail/bourns-inc/PEC09-2315F-N0015/4699158) |
 | orpheus pico (apparently pin compatible with pi pico) | 1 | no idea where the link is |
+
+\
+\
+## images \
+
+### case \
+![the case](imgs/case.png) \
+
+### the pcb \
+![the pcb, mid-layout](imgs/layout.png) \
+![the finished pcb](imgs/completed-pcb.png)
