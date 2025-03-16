@@ -1,8 +1,6 @@
 # The Mirakeeb Walpole \
 ---
-\
 Now, you may ask yourself: 'why the hell does this exist?' and my answer would be: 'and why the hell not? I was bored.' The Walpole is a compact, cool, and multi-layered keyboard build to be simple to assemble, simple to modify, and just neat to use. (also, I didn't want to use stabs because this is the first keyboard i've designed and I don't know how to use them lol)
-\
 ## BOM \
 | part | count | link |
 | ---- | ----- | ---- |
@@ -15,7 +13,6 @@ Now, you may ask yourself: 'why the hell does this exist?' and my answer would b
 | Bourns PEC09 horzontal rotary | 1 | [digikey](https://www.digikey.be/en/products/detail/bourns-inc/PEC09-2315F-N0015/4699158) |
 | orpheus pico (apparently pin compatible with pi pico) | 1 | no idea where the link is |
 
-\
 \
 ## images \
 
